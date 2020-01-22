@@ -10,7 +10,7 @@ FileName : pronounce_for_number.py
 import pyttsx3
 from time import sleep
 import random
-total = 10
+total = 3
 
 
 def supplementDate(number):
